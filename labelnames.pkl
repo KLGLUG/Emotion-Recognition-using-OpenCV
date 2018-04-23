@@ -1,0 +1,10 @@
+(lp0
+S'syamanth'
+p1
+aS'lakshman'
+p2
+aS'akhil'
+p3
+aS'murthy'
+p4
+a.
